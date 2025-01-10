@@ -1,0 +1,33 @@
+header {
+    background-color: #6B8E23;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  nav {
+    display: flex;
+    gap: 20px;
+    background-color: #6B8E23;
+  }
+  
+  nav a {
+    color: white;
+    background-color: #6B8E23;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #333;
+  }
+  
